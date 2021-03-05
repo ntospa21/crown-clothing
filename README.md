@@ -1,2 +1,2 @@
 # crown-clothing
-# a massive e-commerce about a clothing 
+# a massive e-commerce about a clothing brand
